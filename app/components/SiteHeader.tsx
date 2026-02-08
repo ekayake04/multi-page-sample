@@ -7,7 +7,7 @@ export default function SiteHeader() {
       <Container className="flex items-center justify-between gap-6">
         <Link href="/" className="group inline-flex items-baseline gap-2">
           <span className="text-lg font-semibold tracking-tight text-ink">
-            Lumen Studio
+            Ramen Studio
           </span>
           <span className="text-xs uppercase tracking-[0.3em] text-muted group-hover:text-ink">
             Lab
@@ -24,7 +24,7 @@ export default function SiteHeader() {
             About
           </Link>
           <a
-            href="mailto:hello@lumen.studio"
+            href="mailto:0417evanicarose@gmail.com"
             className="rounded-full border border-ink/15 px-4 py-2 text-xs uppercase tracking-[0.2em] transition hover:border-ink"
           >
             Contact

@@ -15,7 +15,7 @@ const fraunces = Fraunces({
 });
 
 export const metadata: Metadata = {
-  title: "Lumen Studio | Product Design Partner",
+  title: "Ramen Studio | Product Design Partner",
   description:
     "A multi-page demo site showcasing clear structure, responsive layout, and scalable organization.",
 };

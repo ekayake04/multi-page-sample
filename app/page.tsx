@@ -13,7 +13,7 @@ export default function Home() {
               A multi-page demo built to scale, not just to launch.
             </h1>
             <p className="max-w-xl text-lg leading-relaxed text-muted">
-              Lumen Studio pairs strategy with craft to help teams ship polished
+              Ramen Studio pairs strategy with craft to help teams ship polished
               experiences. This sample showcases a clear structure, responsive
               grid, and consistent page patterns.
             </p>

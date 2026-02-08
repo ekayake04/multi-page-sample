@@ -1,4 +1,4 @@
-# Lumen Studio Demo
+# Ramen Studio Demo
 
 Multi-page Next.js site with a clear, scalable structure. Includes a homepage and a secondary About page, plus shared layout components.
 
